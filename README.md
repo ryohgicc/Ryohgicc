@@ -56,10 +56,9 @@ flowchart LR
 
 ### Snapshot
 
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ryohgicc&show_icons=true&hide_title=true&hide_border=true&theme=default" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryohgicc&layout=compact&hide_border=true&theme=default" alt="Top languages" />
-</p>
+| Public repos | Stars earned | Followers | Main languages |
+| ---: | ---: | ---: | --- |
+| 20 | 38 | 7 | JavaScript, Swift, HTML, TypeScript, Python |
 
 ### Recent Activity
 
