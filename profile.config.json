@@ -1,0 +1,38 @@
+{
+  "githubUsername": "ryohgicc",
+  "name": "Gjj",
+  "headline": "Vibe Coding. Building small tools, browser extensions, and practical product experiments.",
+  "location": "",
+  "website": "",
+  "email": "",
+  "focus": [
+    "Browser extensions",
+    "AI-assisted workflows",
+    "Practical automation tools"
+  ],
+  "tech": [
+    "JavaScript",
+    "TypeScript",
+    "HTML",
+    "Browser Extensions",
+    "LLM APIs",
+    "Automation"
+  ],
+  "featuredProjects": [
+    {
+      "name": "ShareCraft",
+      "description": "A browser extension that turns webpages into share-ready recommendation copy with your own LLM API key.",
+      "url": "https://github.com/ryohgicc/ShareCraft"
+    },
+    {
+      "name": "xhs2reddit",
+      "description": "A browser extension for extracting Xiaohongshu note content, including title, body text, and images.",
+      "url": "https://github.com/ryohgicc/xhs2reddit"
+    },
+    {
+      "name": "muti_language_translation",
+      "description": "A local multilingual translation tool that supports translating across 12 languages.",
+      "url": "https://github.com/ryohgicc/muti_language_translation"
+    }
+  ]
+}
