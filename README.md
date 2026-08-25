@@ -2,16 +2,29 @@
 
 # Gjj
 
-Vibe Coding. Building useful browser extensions, automation tools, and small product experiments.
+**Vibe Coding** · useful browser extensions · automation tools · small product experiments
 
 [![GitHub followers](https://img.shields.io/github/followers/ryohgicc?style=flat&label=Followers&color=57606a)](https://github.com/ryohgicc?tab=followers)
 [![Stars](https://img.shields.io/github/stars/ryohgicc?style=flat&label=Stars&color=57606a)](https://github.com/ryohgicc?tab=stars)
 
 </div>
 
-### Focus
+```txt
+ryohgicc@github
+├─ mode: vibe coding
+├─ ships: browser extensions, macOS utilities, automation helpers
+├─ taste: small UI, direct workflows, useful defaults
+└─ current loop: idea -> prototype -> polish -> publish
+```
 
-I like practical tools with a short path from idea to use: browser extensions, AI-assisted workflows, lightweight automation, and interfaces that stay clear after the first version.
+### What I Build
+
+| Direction | Shape |
+| --- | --- |
+| Browser extensions | Capture, transform, and share web content with fewer clicks |
+| AI workflows | Make LLMs useful inside everyday product flows |
+| Automation tools | Turn repeated tiny tasks into one reliable action |
+| Small apps | Focused utilities with clear interfaces and fast feedback |
 
 ### Toolbox
 
@@ -21,6 +34,16 @@ I like practical tools with a short path from idea to use: browser extensions, A
 ![Swift](https://img.shields.io/badge/Swift-222?style=flat&logo=swift)
 ![Python](https://img.shields.io/badge/Python-222?style=flat&logo=python)
 ![LLM APIs](https://img.shields.io/badge/LLM_APIs-222?style=flat)
+
+### Build Loop
+
+```mermaid
+flowchart LR
+  A[Notice friction] --> B[Prototype fast]
+  B --> C[Use it for real]
+  C --> D[Polish the workflow]
+  D --> E[Ship and iterate]
+```
 
 ### Selected Projects
 
@@ -41,9 +64,9 @@ I like practical tools with a short path from idea to use: browser extensions, A
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+- Updated [ryohgicc/Ryohgicc](https://github.com/ryohgicc/Ryohgicc)
 - Created something in [ryohgicc/ScreenGuard](https://github.com/ryohgicc/ScreenGuard)
 - Pushed updates to [ryohgicc/ScreenshotTodo](https://github.com/ryohgicc/ScreenshotTodo)
-- Pushed updates to [ryohgicc/Billiards-ELO-Rating-System](https://github.com/ryohgicc/Billiards-ELO-Rating-System)
 - Pushed updates to [ryohgicc/Billiards-ELO-Rating-System](https://github.com/ryohgicc/Billiards-ELO-Rating-System)
 - Pushed updates to [ryohgicc/Billiards-ELO-Rating-System](https://github.com/ryohgicc/Billiards-ELO-Rating-System)
 <!--RECENT_ACTIVITY:end-->
