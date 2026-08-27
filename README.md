@@ -63,11 +63,11 @@ flowchart LR
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+- Pushed updates to [ryohgicc/Billiards-ELO-Rating-System](https://github.com/ryohgicc/Billiards-ELO-Rating-System)
+- Pushed updates to [ryohgicc/ScreenGuard](https://github.com/ryohgicc/ScreenGuard)
 - Pushed updates to [ryohgicc/ScreenGuard](https://github.com/ryohgicc/ScreenGuard)
 - Pushed updates to [ryohgicc/windowBlock](https://github.com/ryohgicc/windowBlock)
 - Pushed updates to [ryohgicc/Ryohgicc](https://github.com/ryohgicc/Ryohgicc)
-- Pushed updates to [ryohgicc/Ryohgicc](https://github.com/ryohgicc/Ryohgicc)
-- Updated [ryohgicc/Ryohgicc](https://github.com/ryohgicc/Ryohgicc)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
