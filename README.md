@@ -63,9 +63,9 @@ flowchart LR
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+- Pushed updates to [ryohgicc/videoscan](https://github.com/ryohgicc/videoscan)
+- Pushed updates to [ryohgicc/videoscan](https://github.com/ryohgicc/videoscan)
 - Created something in [ryohgicc/videoscan](https://github.com/ryohgicc/videoscan)
-- Pushed updates to [ryohgicc/Billiards-ELO-Rating-System](https://github.com/ryohgicc/Billiards-ELO-Rating-System)
-- Pushed updates to [ryohgicc/Billiards-ELO-Rating-System](https://github.com/ryohgicc/Billiards-ELO-Rating-System)
 - Pushed updates to [ryohgicc/Billiards-ELO-Rating-System](https://github.com/ryohgicc/Billiards-ELO-Rating-System)
 - Pushed updates to [ryohgicc/Billiards-ELO-Rating-System](https://github.com/ryohgicc/Billiards-ELO-Rating-System)
 <!--RECENT_ACTIVITY:end-->
