@@ -67,7 +67,7 @@ flowchart LR
 - Pushed updates to [ryohgicc/videoscan](https://github.com/ryohgicc/videoscan)
 - Pushed updates to [ryohgicc/videoscan](https://github.com/ryohgicc/videoscan)
 - Pushed updates to [ryohgicc/videoscan](https://github.com/ryohgicc/videoscan)
-- Created something in [ryohgicc/videoscan](https://github.com/ryohgicc/videoscan)
+- Pushed updates to [ryohgicc/videoscan](https://github.com/ryohgicc/videoscan)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
