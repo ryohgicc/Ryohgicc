@@ -63,7 +63,7 @@ flowchart LR
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-- Pushed updates to [ryohgicc/videoscan](https://github.com/ryohgicc/videoscan)
+- Pushed updates to [ryohgicc/habittrack](https://github.com/ryohgicc/habittrack)
 - Pushed updates to [ryohgicc/videoscan](https://github.com/ryohgicc/videoscan)
 - Pushed updates to [ryohgicc/videoscan](https://github.com/ryohgicc/videoscan)
 - Pushed updates to [ryohgicc/videoscan](https://github.com/ryohgicc/videoscan)
