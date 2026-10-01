@@ -64,10 +64,10 @@ flowchart LR
 
 <!--RECENT_ACTIVITY:start-->
 - Pushed updates to [ryohgicc/dota2analysis](https://github.com/ryohgicc/dota2analysis)
+- Pushed updates to [ryohgicc/dota2analysis](https://github.com/ryohgicc/dota2analysis)
+- Pushed updates to [ryohgicc/dota2analysis](https://github.com/ryohgicc/dota2analysis)
+- Pushed updates to [ryohgicc/dota2analysis](https://github.com/ryohgicc/dota2analysis)
 - Created something in [ryohgicc/dota2analysis](https://github.com/ryohgicc/dota2analysis)
-- Pushed updates to [ryohgicc/dota2analysis](https://github.com/ryohgicc/dota2analysis)
-- Pushed updates to [ryohgicc/dota2analysis](https://github.com/ryohgicc/dota2analysis)
-- Pushed updates to [ryohgicc/dota2analysis](https://github.com/ryohgicc/dota2analysis)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
