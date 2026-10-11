@@ -63,11 +63,11 @@ flowchart LR
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+- Pushed updates to [ryohgicc/OrbitPane](https://github.com/ryohgicc/OrbitPane)
+- Pushed updates to [ryohgicc/ShareCraft](https://github.com/ryohgicc/ShareCraft)
+- Created something in [ryohgicc/multi-model-chat-lab](https://github.com/ryohgicc/multi-model-chat-lab)
 - Pushed updates to [ryohgicc/dota2analysis](https://github.com/ryohgicc/dota2analysis)
 - Pushed updates to [ryohgicc/dota2analysis](https://github.com/ryohgicc/dota2analysis)
-- Pushed updates to [ryohgicc/dota2analysis](https://github.com/ryohgicc/dota2analysis)
-- Pushed updates to [ryohgicc/dota2analysis](https://github.com/ryohgicc/dota2analysis)
-- Created something in [ryohgicc/dota2analysis](https://github.com/ryohgicc/dota2analysis)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
