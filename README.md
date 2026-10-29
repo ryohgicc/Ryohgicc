@@ -56,9 +56,11 @@ flowchart LR
 
 ### Snapshot
 
+<!--SNAPSHOT:start-->
 | Public repos | Stars earned | Followers | Main languages |
 | ---: | ---: | ---: | --- |
-| 20 | 38 | 7 | JavaScript, Swift, HTML, TypeScript, Python |
+| 24 | 38 | 7 | JavaScript, Swift, TypeScript, HTML, Python |
+<!--SNAPSHOT:end-->
 
 ### Recent Activity
 

@@ -32,7 +32,7 @@ const eventLabels = {
   PullRequestReviewEvent: "Reviewed a pull request in"
 };
 
-async function fetchEvents() {
+async function fetchJson(url) {
   const headers = {
     Accept: "application/vnd.github+json",
     "User-Agent": "profile-readme-updater"
@@ -42,9 +42,7 @@ async function fetchEvents() {
     headers.Authorization = `Bearer ${token}`;
   }
 
-  const response = await fetch(`https://api.github.com/users/${username}/events/public?per_page=20`, {
-    headers
-  });
+  const response = await fetch(url, { headers });
 
   if (!response.ok) {
     throw new Error(`GitHub API returned ${response.status}: ${await response.text()}`);
@@ -53,7 +51,20 @@ async function fetchEvents() {
   return response.json();
 }
 
-function buildActivity(events) {
+async function fetchEvents() {
+  return fetchJson(`https://api.github.com/users/${username}/events/public?per_page=20`);
+}
+
+async function fetchProfileSnapshot() {
+  const [user, repos] = await Promise.all([
+    fetchJson(`https://api.github.com/users/${username}`),
+    fetchJson(`https://api.github.com/users/${username}/repos?per_page=100`)
+  ]);
+
+  return buildSnapshot(user, repos);
+}
+
+export function buildActivity(events) {
   const visibleEvents = events
     .filter((event) => event?.repo?.name)
     .slice(0, 5);
@@ -69,6 +80,28 @@ function buildActivity(events) {
       return `- ${label} [${repo}](https://github.com/${event.repo.name})`;
     })
     .join("\n");
+}
+
+export function buildSnapshot(user, repos) {
+  const stars = repos.reduce((total, repo) => total + (repo.stargazers_count || 0), 0);
+  const languageCounts = new Map();
+
+  for (const repo of repos) {
+    if (!repo.language) continue;
+    languageCounts.set(repo.language, (languageCounts.get(repo.language) || 0) + 1);
+  }
+
+  const languages = [...languageCounts.entries()]
+    .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
+    .slice(0, 5)
+    .map(([language]) => language)
+    .join(", ");
+
+  return [
+    "| Public repos | Stars earned | Followers | Main languages |",
+    "| ---: | ---: | ---: | --- |",
+    `| ${user.public_repos || 0} | ${stars} | ${user.followers || 0} | ${languages || "None yet"} |`
+  ].join("\n");
 }
 
 function replaceBetweenMarkers(source, marker, value) {
@@ -113,12 +146,22 @@ function personalize(source) {
     );
 }
 
-try {
+export async function updateProfileReadme() {
   readme = personalize(readme);
-  const events = await fetchEvents();
+  const [events, snapshot] = await Promise.all([
+    fetchEvents(),
+    fetchProfileSnapshot()
+  ]);
+  readme = replaceBetweenMarkers(readme, "SNAPSHOT", snapshot);
   readme = replaceBetweenMarkers(readme, "RECENT_ACTIVITY", buildActivity(events));
   await fs.writeFile(readmePath, `${readme.trim()}\n`);
   console.log("README.md updated.");
+}
+
+try {
+  if (import.meta.url === `file://${process.argv[1]}`) {
+    await updateProfileReadme();
+  }
 } catch (error) {
   console.error(error);
   process.exit(1);
