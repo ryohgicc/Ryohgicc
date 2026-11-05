@@ -59,17 +59,17 @@ flowchart LR
 <!--SNAPSHOT:start-->
 | Public repos | Stars earned | Followers | Main languages |
 | ---: | ---: | ---: | --- |
-| 24 | 38 | 7 | JavaScript, Swift, TypeScript, HTML, Python |
+| 25 | 38 | 7 | JavaScript, Swift, TypeScript, HTML, Python |
 <!--SNAPSHOT:end-->
 
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+- Forked [yunyu950908/tabcat-extension](https://github.com/yunyu950908/tabcat-extension)
 - Pushed updates to [ryohgicc/Ryohgicc](https://github.com/ryohgicc/Ryohgicc)
 - Pushed updates to [ryohgicc/multi-model-chat-lab](https://github.com/ryohgicc/multi-model-chat-lab)
 - Pushed updates to [ryohgicc/multi-model-chat-lab](https://github.com/ryohgicc/multi-model-chat-lab)
 - Pushed updates to [ryohgicc/multi-model-chat-lab](https://github.com/ryohgicc/multi-model-chat-lab)
-- Starred [tacshi/Soundcore](https://github.com/tacshi/Soundcore)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
