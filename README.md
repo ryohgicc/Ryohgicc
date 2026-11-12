@@ -65,7 +65,7 @@ flowchart LR
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-- Pushed updates to [ryohgicc/Sitting-Posture-Health-Monitoring](https://github.com/ryohgicc/Sitting-Posture-Health-Monitoring)
+- Starred [rshankras/claude-code-apple-skills](https://github.com/rshankras/claude-code-apple-skills)
 - Pushed updates to [ryohgicc/Sitting-Posture-Health-Monitoring](https://github.com/ryohgicc/Sitting-Posture-Health-Monitoring)
 - Pushed updates to [ryohgicc/Sitting-Posture-Health-Monitoring](https://github.com/ryohgicc/Sitting-Posture-Health-Monitoring)
 - Pushed updates to [ryohgicc/Sitting-Posture-Health-Monitoring](https://github.com/ryohgicc/Sitting-Posture-Health-Monitoring)
