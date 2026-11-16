@@ -65,7 +65,7 @@ flowchart LR
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-- Created something in [ryohgicc/musicanalysis](https://github.com/ryohgicc/musicanalysis)
+- Pushed updates to [ryohgicc/musicanalysis](https://github.com/ryohgicc/musicanalysis)
 - Pushed updates to [ryohgicc/musicanalysis](https://github.com/ryohgicc/musicanalysis)
 - Pushed updates to [ryohgicc/musicanalysis](https://github.com/ryohgicc/musicanalysis)
 - Pushed updates to [ryohgicc/musicanalysis](https://github.com/ryohgicc/musicanalysis)
