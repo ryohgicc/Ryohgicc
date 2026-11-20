@@ -65,11 +65,11 @@ flowchart LR
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-- Pushed updates to [ryohgicc/musicanalysis](https://github.com/ryohgicc/musicanalysis)
-- Pushed updates to [ryohgicc/musicanalysis](https://github.com/ryohgicc/musicanalysis)
-- Pushed updates to [ryohgicc/musicanalysis](https://github.com/ryohgicc/musicanalysis)
-- Pushed updates to [ryohgicc/musicanalysis](https://github.com/ryohgicc/musicanalysis)
-- Pushed updates to [ryohgicc/musicanalysis](https://github.com/ryohgicc/musicanalysis)
+- Pushed updates to [ryohgicc/jikeusernotes](https://github.com/ryohgicc/jikeusernotes)
+- Pushed updates to [ryohgicc/jikeusernotes](https://github.com/ryohgicc/jikeusernotes)
+- Pushed updates to [ryohgicc/jikeusernotes](https://github.com/ryohgicc/jikeusernotes)
+- Pushed updates to [ryohgicc/jikeusernotes](https://github.com/ryohgicc/jikeusernotes)
+- Pushed updates to [ryohgicc/jikeusernotes](https://github.com/ryohgicc/jikeusernotes)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
