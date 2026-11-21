@@ -65,7 +65,7 @@ flowchart LR
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-- Pushed updates to [ryohgicc/jikeusernotes](https://github.com/ryohgicc/jikeusernotes)
+- Pushed updates to [ryohgicc/SocialmediaLinkGet](https://github.com/ryohgicc/SocialmediaLinkGet)
 - Pushed updates to [ryohgicc/jikeusernotes](https://github.com/ryohgicc/jikeusernotes)
 - Pushed updates to [ryohgicc/jikeusernotes](https://github.com/ryohgicc/jikeusernotes)
 - Pushed updates to [ryohgicc/jikeusernotes](https://github.com/ryohgicc/jikeusernotes)
