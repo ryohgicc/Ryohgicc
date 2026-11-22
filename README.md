@@ -59,15 +59,15 @@ flowchart LR
 <!--SNAPSHOT:start-->
 | Public repos | Stars earned | Followers | Main languages |
 | ---: | ---: | ---: | --- |
-| 29 | 38 | 7 | JavaScript, Swift, TypeScript, Python, HTML |
+| 29 | 38 | 8 | JavaScript, Swift, TypeScript, Python, HTML |
 <!--SNAPSHOT:end-->
 
 ### Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+- Pushed updates to [ryohgicc/jikeusernotes](https://github.com/ryohgicc/jikeusernotes)
+- Pushed updates to [ryohgicc/jikeusernotes](https://github.com/ryohgicc/jikeusernotes)
 - Pushed updates to [ryohgicc/SocialmediaLinkGet](https://github.com/ryohgicc/SocialmediaLinkGet)
-- Pushed updates to [ryohgicc/jikeusernotes](https://github.com/ryohgicc/jikeusernotes)
-- Pushed updates to [ryohgicc/jikeusernotes](https://github.com/ryohgicc/jikeusernotes)
 - Pushed updates to [ryohgicc/jikeusernotes](https://github.com/ryohgicc/jikeusernotes)
 - Pushed updates to [ryohgicc/jikeusernotes](https://github.com/ryohgicc/jikeusernotes)
 <!--RECENT_ACTIVITY:end-->
