@@ -69,7 +69,7 @@ flowchart LR
 - Pushed updates to [ryohgicc/jikeusernotes](https://github.com/ryohgicc/jikeusernotes)
 - Pushed updates to [ryohgicc/jikeusernotes](https://github.com/ryohgicc/jikeusernotes)
 - Pushed updates to [ryohgicc/jikeusernotes](https://github.com/ryohgicc/jikeusernotes)
-- Pushed updates to [ryohgicc/SocialmediaLinkGet](https://github.com/ryohgicc/SocialmediaLinkGet)
+- Pushed updates to [ryohgicc/jikeusernotes](https://github.com/ryohgicc/jikeusernotes)
 <!--RECENT_ACTIVITY:end-->
 
 <!--
